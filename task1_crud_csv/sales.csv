@@ -1,0 +1,5 @@
+OrderID,Date,Region,Product,Quantity,UnitPrice,Revenue
+1001,2025-01-05,North,Widget A,10,9.99,99.9
+1002,2025-01-09,South,Widget B,3,19.99,59.97
+1004,2025-03-01,West,Gadget Y,2,49.99,99.98
+1005,2025-03-15,North,Widget C,7,18.5,129.5
