@@ -19,6 +19,9 @@ Commands:
 - Delete:
   python crud_csv.py delete --orderid 1006
 
+  <img width="816" height="418" alt="image" src="https://github.com/user-attachments/assets/ff561b05-c652-471a-9d94-609892094758" />
+
+
 Notes:
 - Revenue is automatically calculated.
 - CSV path: sales.csv in this folder.
